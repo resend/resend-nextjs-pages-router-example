@@ -1,30 +1,27 @@
-# Resend with Example
+# Resend with Next.js (Pages Router)
 
-This example shows how to use Resend with [Example](https://example.com).
-
-## Prerequisites
-
-To get the most out of this guide, you’ll need to:
-
-* [Create an API key](https://resend.com/api-keys)
-* [Verify your domain](https://resend.com/domains)
+This example shows how to use Resend with [Next.js](https://nextjs.org).
 
 ## Instructions
 
-1. Replace `re_123456789` on `example.ts` with your API key.
+1. Define environment variables in `.env` file.
 
 2. Install dependencies:
 
   ```sh
-TBD
+npm install
+# or
+yarn
   ```
 
-3. Execute the following command:
+3. Run Next.js locally:
 
   ```sh
-TBD
+npm run dev
   ```
 
-## License
+4. Open URL in the browser:
 
-MIT License
+  ```
+http://localhost:3000
+  ```
