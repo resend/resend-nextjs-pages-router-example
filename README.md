@@ -4,7 +4,7 @@ This example shows how to use Resend with [Next.js](https://nextjs.org).
 
 ## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Deploy the example using [Vercel](https://vercel.com):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/resend/resend-nextjs-pages-router-example&project-name=resend-nextjs-pages-router-example&repository-name=resend-nextjs-pages-router-example&env=RESEND_API_KEY)
 
