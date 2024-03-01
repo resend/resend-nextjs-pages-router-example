@@ -12,7 +12,9 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 1. Define environment variables in `.env` file.
 
+```sh
 cp .env.example .env
+```
 
 2. Install dependencies:
 
