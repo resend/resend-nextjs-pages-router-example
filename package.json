@@ -1,6 +1,7 @@
 {
   "name": "with-nextjs-typescript",
   "private": true,
+  "packageManager": "pnpm@11.3.0",
   "scripts": {
     "dev": "next dev"
   },
